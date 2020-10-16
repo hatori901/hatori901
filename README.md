@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=hatori901&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hatori901&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **hatori901/hatori901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
