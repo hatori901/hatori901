@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Erwin. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hatori901/hatori901/main/gif.gif" width="500"/>
+<h1 align="center">Hi 👋, I'm Erwin Alam Syah Putra</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
