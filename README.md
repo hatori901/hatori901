@@ -13,9 +13,7 @@
 
 
 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatori901)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=hatori901)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
